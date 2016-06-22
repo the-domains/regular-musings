@@ -1,0 +1,14 @@
+layout_spectrum: 0.3417739309370518
+typography_spectrum: 0.28653854969888926
+color:
+  brandStrength: 0.22165712364949286
+  lightness: 0.41337016853503883
+  saturation: 0.9525200633797795
+  rhythmicContrast: 0.9528301716782153
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+name: regular musings
